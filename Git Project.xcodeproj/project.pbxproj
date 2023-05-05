@@ -11,6 +11,7 @@
 		BB09BE0D2A056FDB006AD469 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB09BE0C2A056FDB006AD469 /* ContentView.swift */; };
 		BB09BE0F2A056FE0006AD469 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BB09BE0E2A056FE0006AD469 /* Assets.xcassets */; };
 		BB09BE122A056FE0006AD469 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BB09BE112A056FE0006AD469 /* Preview Assets.xcassets */; };
+		BB09BE192A0596CB006AD469 /* ModalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB09BE182A0596CB006AD469 /* ModalView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		BB09BE0C2A056FDB006AD469 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BB09BE0E2A056FE0006AD469 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BB09BE112A056FE0006AD469 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BB09BE182A0596CB006AD469 /* ModalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModalView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				BB09BE0A2A056FDB006AD469 /* Git_ProjectApp.swift */,
 				BB09BE0C2A056FDB006AD469 /* ContentView.swift */,
+				BB09BE182A0596CB006AD469 /* ModalView.swift */,
 				BB09BE0E2A056FE0006AD469 /* Assets.xcassets */,
 				BB09BE102A056FE0006AD469 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BB09BE192A0596CB006AD469 /* ModalView.swift in Sources */,
 				BB09BE0D2A056FDB006AD469 /* ContentView.swift in Sources */,
 				BB09BE0B2A056FDB006AD469 /* Git_ProjectApp.swift in Sources */,
 			);
